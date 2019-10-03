@@ -1,0 +1,24 @@
+/target/
+/.settings
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+/.externalToolBuilders
+# we use maven!
+/builder.xml
+
+# maven
+/target
+
+# vim
+.*.sw[a-p]
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+.DS_Store
