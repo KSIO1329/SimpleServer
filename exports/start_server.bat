@@ -1,3 +1,3 @@
 @echo off
-java -jar server.jar 25565
+java -jar server.jar 13291
 pause
